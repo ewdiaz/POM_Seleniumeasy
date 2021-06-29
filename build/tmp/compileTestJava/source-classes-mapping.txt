@@ -1,0 +1,4 @@
+com/seleniumeasy/test/runners/RegisterUser.java
+ com.seleniumeasy.test.runners.RegisterUser
+com/seleniumeasy/test/stepdefinitions/RegisterUserStepDefinitions.java
+ com.seleniumeasy.test.stepdefinitions.RegisterUserStepDefinitions
